@@ -1,0 +1,1 @@
+"C:\Program Files\POV-Ray\v3.7\bin\pvengine" +I"Courbe parametrique Noeud.pov"  /render +O"rendu1.png" /exit
